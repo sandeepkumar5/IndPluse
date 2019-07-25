@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:layout_margin="5dp"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        >
+
+    <TextView
+        android:id="@+id/Phoneop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="User Name"
+        android:textSize="20sp"
+        android:textColor="@color/greenishblack"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/EmailIdop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email Id"
+        android:textColor="@color/greenishblack"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/Phoneop"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Stateop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/greenishblack"
+        android:layout_below="@id/EmailIdop"
+        android:text="State"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Cityop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="City"
+        android:textSize="20sp"
+        android:textColor="@color/greenishblack"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/Stateop"
+        android:textStyle="bold" />
+
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "327839314201",
+    "firebase_url": "https://indplus-53723.firebaseio.com",
+    "project_id": "indplus-53723",
+    "storage_bucket": "indplus-53723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327839314201:android:a44323313c04953f",
+        "android_client_info": {
+          "package_name": "com.sandeep.indplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327839314201-6s96rjcv1rrovkoeos9ked5it6e79b8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sandeep.indplus",
+            "certificate_hash": "77f5197b239d96b0467bc67410fde904e675df9e"
+          }
+        },
+        {
+          "client_id": "327839314201-nt853uut3hvd9961krb07ucj6dg7dvoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCITR0VAtZr7EUBHgkz8V6vIhcQNK_eSak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327839314201-nt853uut3hvd9961krb07ucj6dg7dvoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
